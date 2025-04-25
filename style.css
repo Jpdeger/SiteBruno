@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    background-color: #007BFF;
+    background-color: #a4c4e7;
     color: white;
     padding: 50px 0;
 }
@@ -44,7 +44,7 @@ header p {
 }
 
 .link-item h2 {
-    color: #007BFF;
+    color: #6ba9ec;
     font-size: 1.8rem;
     margin-bottom: 10px;
 }
@@ -62,7 +62,7 @@ header p {
 footer {
     margin-top: 50px;
     padding: 20px;
-    background-color: #007BFF;
+    background-color: #b1cdeb;
     color: white;
 }
 
